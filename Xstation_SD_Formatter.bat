@@ -1,5 +1,5 @@
 @echo off
-@title Create folder structure for Xstation ODE sd card
+@title Create Folder Structure for Xstation ODE SD Card
 
 set RUNPATH=%~dp0
 echo Enter drive letter for Xstation sd card (Example: H: or H:\)
